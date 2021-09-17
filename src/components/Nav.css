@@ -1,0 +1,114 @@
+.bg-light {
+  background: transparent !important;
+}
+.logoclass {
+  width: 10.375rem;
+  height: 5.95rem;
+  margin-left: 25%;
+}
+.languageSelect {
+  width: 93%;
+  padding-top: 4px;
+  background: transparent;
+  border-radius: 2px;
+  color: white;
+  font-size: 0.9rem;
+  height: 34px;
+}
+.signInbutton {
+  background-color: rgb(229, 9, 20);
+  border: none;
+  width: 80px;
+  border-radius: 3px;
+  height: 33px;
+  font-size: 0.9rem;
+}
+@media (max-width: 520px) {
+  .logoclass {
+    width: 8.975rem;
+    height: 5.35rem;
+    margin-left: 20%;
+  }
+  .signInbutton {
+    width: 68px;
+    border-radius: 2px;
+    height: 30px;
+    font-size: 0.8rem;
+  }
+  .languageSelect {
+    width: 95%;
+    padding-top: 4px;
+    background: transparent;
+    border-radius: 2px;
+    color: white;
+    font-size: 0.755rem;
+    height: 32px;
+  }
+}
+
+@media (max-width: 425px) {
+  .logoclass {
+    width: 7.875rem;
+    height: 5rem;
+    margin-left: 15%;
+  }
+  .signInbutton {
+    width: 58px;
+    border-radius: 2px;
+    height: 28px;
+    font-size: 0.7rem;
+  }
+  .languageSelect {
+    width: 101%;
+    padding-top: 4px;
+    background: transparent;
+    border-radius: 2px;
+    color: white;
+    font-size: 0.795rem;
+    height: 33px;
+  }
+}
+@media (max-width: 375px) {
+  .logoclass {
+    width: 5.575rem;
+    height: 4.35rem;
+    margin-left: 10%;
+  }
+  .signInbutton {
+    width: 58px;
+    border-radius: 2px;
+    height: 28px;
+    font-size: 0.7rem;
+  }
+  .languageSelect {
+    width: 100%;
+    padding-top: 4px;
+    background: transparent;
+    border-radius: 2px;
+    color: white;
+    font-size: 0.755rem;
+    height: 32px;
+  }
+}
+@media (max-width: 245px) {
+  .logoclass {
+    width: 2.7rem;
+    height: 1.55rem;
+    margin-left: 3%;
+  }
+  .signInbutton {
+    width: 58px;
+    border-radius: 2px;
+    height: 28px;
+    font-size: 0.7rem;
+  }
+  .languageSelect {
+    width: 100%;
+    padding-top: 4px;
+    background: transparent;
+    border-radius: 2px;
+    color: white;
+    font-size: 0.755rem;
+    height: 32px;
+  }
+}
